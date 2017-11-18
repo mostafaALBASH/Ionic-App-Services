@@ -8,7 +8,7 @@ Ionic Application
 
 $ `npm install` to install all required packages
 
-##serve
+## serve
 $ `npm run ionic:serve` to build and serve the app
 
 ##  ionic platform add "android" or "ios"
