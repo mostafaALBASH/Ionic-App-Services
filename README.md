@@ -19,6 +19,11 @@ emulate & build $ `cordova emulate android`
 
 
 
+![alt text](https://github.com/mostafaALBASH/Ionic-App-Services/blob/master/quotesPic.JPG)
+
+
+![alt text](https://github.com/mostafaALBASH/Ionic-App-Services/blob/master/settingPic.JPG)
+
 
  
 
